@@ -3,4 +3,4 @@ web dev skill practice
 
 ## Website: 
 
-### link
+### link: https://pappitito.github.io/nigerian-dish-carousel/
